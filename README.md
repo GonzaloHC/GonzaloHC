@@ -23,6 +23,6 @@
 
 ## Contacto
 
-Puedes contactarme en [gonzalohuarac@gmail.com](mailto:gonzalohuarac@gmail.com).
+Puedes contactarme en [gonzalohuarac@gmail.com](mailto:gonzalohuarac@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
